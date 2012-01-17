@@ -1,0 +1,26 @@
+#read
+{
+	padding: 10px;
+    height: 450px;
+        
+    border: 1px solid #ccc;
+    overflow: hidden;   
+        
+    text-align:justify;
+        
+    -webkit-column-count: 2;
+    -webkit-column-gap: 20px;
+        
+    -moz-column-count: 2;
+    -moz-column-gap: 20px;
+        
+    column-count: 2;
+    column-gap: 20px;
+        
+    display: block;
+}
+    
+div#read:first-letter
+{ 
+	font-size:300%;
+}
