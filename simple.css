@@ -2,10 +2,8 @@
 {
 	padding: 10px;
     height: 450px;
-        
     border: 1px solid #ccc;
     overflow: hidden;   
-        
     text-align:justify;
         
     -webkit-column-count: 2;

@@ -1,4 +1,3 @@
-
 function moveBackward()
 {
 	var scrollLeft = parseInt($('#read').css('width'));
